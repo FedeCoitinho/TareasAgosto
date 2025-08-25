@@ -34,12 +34,3 @@ public class validacion {
     }
 
 }
-
-// Nivel Avanzado: Validación de Ingreso de Datos con Reintento
-// Consigna: Debe programar un sistema de ingreso de datos para un censo. El
-// usuario debe ingresar un número de identificación válido (mayor que 0). Si el
-// número ingresado no es válido (menor o igual a 0), el sistema debe mostrar un
-// error y pedirle que lo intente nuevamente. Atención: tiene 3 intentos
-// unicamente.
-// Muestre un mensaje de éxito una vez que el número sea válido o de usuario
-// bloqueado si supero los intentos
